@@ -9,7 +9,7 @@
 #include<graphics.h>
 #include<dos.h>
 #include<ctype.h>
-
+ 
 /**************************************************************************
 CLASS NAME - stud
 DETAILS - It contains functions to implement changes in contacts
